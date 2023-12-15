@@ -1,5 +1,6 @@
- 🤖 Greeting Fellow Humans!🤖
- ![alt text] (https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm)
+ 🤖 Greeting Fellow Humans!🤖 /n
+ 
+![alt text] (https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm)
   👋 Hi, I’m Antonio and I am a Data Analyst with expertise in data analysis, data warehousing and report automation.
   
    🌱 I’m currently learning AutomatedML in using Machine Learning Models to turn actionable insights and improving
